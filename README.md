@@ -3,8 +3,6 @@
 [![Tests](https://github.com/OWNER/uncle-ben/actions/workflows/tests.yml/badge.svg)](https://github.com/OWNER/uncle-ben/actions/workflows/tests.yml)
 [![Lint](https://github.com/OWNER/uncle-ben/actions/workflows/lint.yml/badge.svg)](https://github.com/OWNER/uncle-ben/actions/workflows/lint.yml)
 
-> Замените `OWNER` на ваш GitHub user/org после настройки `origin`.
-
 Локальный голосовой ассистент для macOS с wake-word «Эй Бэн», транскрибацией через `faster-whisper`, интерпретацией интентов через локальную LLM (`Ollama`) и безопасным выполнением системных команд.
 
 Проект ориентирован на приватный локальный запуск (MVP), без обязательной облачной зависимости.
